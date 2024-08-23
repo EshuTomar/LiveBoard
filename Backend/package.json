@@ -1,0 +1,19 @@
+{
+  "name": "liveboard_app",
+  "version": "1.0.0",
+  "description": "a real time whiteboard app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "eshu tomar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
