@@ -17,7 +17,7 @@
 To run LiveBoard locally, ensure you have the following installed:
 
 - Node.js
-- npm or Yarn
+- npm or Yarn  
 
 ### Installation
 
