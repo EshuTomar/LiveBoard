@@ -25,3 +25,8 @@ To run LiveBoard locally, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/EshuTomar/liveBoard.git
+
+
+   ---
+
+   
